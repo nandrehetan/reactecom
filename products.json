@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise-cancellation and deep bass.",
+      "price": 99.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "description": "Track your fitness goals and stay connected with this sleek smart watch.",
+      "price": 149.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/smartwatch.jpg",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Leather Wallet",
+      "description": "Premium leather wallet with multiple compartments for cards and cash.",
+      "price": 39.99,
+      "category": "Accessories",
+      "image": "https://example.com/images/wallet.jpg",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with high-quality sound and water resistance.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/speaker.jpg",
+      "stock": 80
+    },
+    {
+      "id": 5,
+      "name": "4K Ultra HD TV",
+      "description": "Enjoy stunning 4K resolution with smart TV capabilities.",
+      "price": 599.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/tv.jpg",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "name": "Gaming Laptop",
+      "description": "High-performance laptop designed for gamers with a powerful GPU and fast refresh rate.",
+      "price": 1299.99,
+      "category": "Computers",
+      "image": "https://example.com/images/laptop.jpg",
+      "stock": 15
+    },
+    {
+      "id": 7,
+      "name": "Running Shoes",
+      "description": "Comfortable and durable running shoes with excellent support.",
+      "price": 89.99,
+      "category": "Sportswear",
+      "image": "https://example.com/images/shoes.jpg",
+      "stock": 60
+    },
+    {
+      "id": 8,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with excellent camera quality and fast performance.",
+      "price": 799.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/smartphone.jpg",
+      "stock": 40
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank",
+      "description": "Keep your devices charged on the go with this portable power bank.",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/powerbank.jpg",
+      "stock": 120
+    },
+    {
+      "id": 10,
+      "name": "Instant Camera",
+      "description": "Capture moments instantly with this retro-style instant camera.",
+      "price": 79.99,
+      "category": "Photography",
+      "image": "https://example.com/images/camera.jpg",
+      "stock": 50
+    }
+  ]
+  
